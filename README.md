@@ -1,2 +1,2 @@
 # SilversInnManagementSystem
-I have created a mini system for our school final project.
+Fundamentals of Database Mini System Final Project
